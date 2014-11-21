@@ -1,0 +1,11 @@
+{
+    "name": "FromCodePoint",
+    "version": "0.2.1",
+    "main": "fromcodepoint.js",
+    "ignore": [
+        ".gitignore",
+        ".travis.yml",
+        "tests/",
+        ".gitattributes"
+    ]
+}
